@@ -6,3 +6,6 @@ console.log(a+b);
 
 
 console.log("huihui");
+
+
+
